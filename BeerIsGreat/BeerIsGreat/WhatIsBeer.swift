@@ -10,7 +10,7 @@ import Foundation
 
 struct WhatIsBeer {
     
-    let ingredients = [
+    let beerIngredients = [
         [
             "title": "Malt",
             "description": "Malt contributes to the flavor, color, and mouthfeel of a beer. To create malt, a grain is soaked in water until it begins to sprout, converting its starch reserves into sugars.  This process is halted by drying the grains in a kiln, providing a source of sugar and soluble starch for the fermentation process.",

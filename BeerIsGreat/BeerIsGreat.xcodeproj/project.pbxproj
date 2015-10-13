@@ -16,6 +16,7 @@
 		D398428A1BCC9916008D51A8 /* BeerIsGreatTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D39842891BCC9916008D51A8 /* BeerIsGreatTests.swift */; };
 		D39842951BCC9916008D51A8 /* BeerIsGreatUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D39842941BCC9916008D51A8 /* BeerIsGreatUITests.swift */; };
 		D39842A51BCC9A0A008D51A8 /* WhatIsBeer.swift in Sources */ = {isa = PBXBuildFile; fileRef = D39842A41BCC9A0A008D51A8 /* WhatIsBeer.swift */; settings = {ASSET_TAGS = (); }; };
+		D39842A71BCC9BDD008D51A8 /* BeerIngredientsList.swift in Sources */ = {isa = PBXBuildFile; fileRef = D39842A61BCC9BDD008D51A8 /* BeerIngredientsList.swift */; settings = {ASSET_TAGS = (); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		D39842941BCC9916008D51A8 /* BeerIsGreatUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BeerIsGreatUITests.swift; sourceTree = "<group>"; };
 		D39842961BCC9916008D51A8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D39842A41BCC9A0A008D51A8 /* WhatIsBeer.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WhatIsBeer.swift; sourceTree = "<group>"; };
+		D39842A61BCC9BDD008D51A8 /* BeerIngredientsList.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = BeerIngredientsList.swift; path = ../BeerIngredientsList.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -133,6 +135,7 @@
 		D39842A21BCC99D9008D51A8 /* Models */ = {
 			isa = PBXGroup;
 			children = (
+				D39842A61BCC9BDD008D51A8 /* BeerIngredientsList.swift */,
 				D39842A41BCC9A0A008D51A8 /* WhatIsBeer.swift */,
 			);
 			name = Models;
@@ -277,6 +280,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D39842A71BCC9BDD008D51A8 /* BeerIngredientsList.swift in Sources */,
 				D39842771BCC9916008D51A8 /* SecondViewController.swift in Sources */,
 				D39842A51BCC9A0A008D51A8 /* WhatIsBeer.swift in Sources */,
 				D39842731BCC9916008D51A8 /* AppDelegate.swift in Sources */,
