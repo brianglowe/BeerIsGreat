@@ -1,5 +1,5 @@
 //
-//  FirstViewController.swift
+//  ViewController.swift
 //  BeerIsGreat
 //
 //  Created by Brian J Glowe on 10/12/15.
@@ -8,7 +8,7 @@
 
 import UIKit
 
-class FirstViewController: UIViewController {
+class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
